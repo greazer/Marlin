@@ -1167,8 +1167,8 @@
 // @section machine
 
 // The size of the print bed
-#define X_BED_SIZE 230    // Per https://www.reddit.com/r/ender3/comments/i9xt6e/stepbystep_guide_for_ender_3_v2_firmware_w/
-#define Y_BED_SIZE 230
+#define X_BED_SIZE 235    // Per https://www.reddit.com/r/ender3/comments/i9xt6e/stepbystep_guide_for_ender_3_v2_firmware_w/
+#define Y_BED_SIZE 235
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
